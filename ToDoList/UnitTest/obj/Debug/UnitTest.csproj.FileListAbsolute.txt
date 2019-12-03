@@ -1,0 +1,36 @@
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\ToDoList.exe
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\ToDoList.pdb
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\ToDoList.exe.config
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Pınar\Desktop\ToDoList\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\ToDoList.exe
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\ToDoList.pdb
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\ToDoList.exe.config
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\UnitTest\obj\Debug\UnitTest.pdb

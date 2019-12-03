@@ -1,0 +1,60 @@
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\App.g.cs
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\ControlzEx.dll
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\ControlzEx.pdb
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\EntityFramework.dll
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\EntityFramework.xml
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\Facade\MainWindow.g.cs
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\Facade\MainWindow.baml
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\Facade\HomeWindow.g.cs
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\Facade\RegisterWindow.g.cs
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\Facade\HomeWindow.baml
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\Facade\RegisterWindow.baml
+C:\Users\Pınar\Desktop\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\ControlzEx.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\EntityFramework.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\ControlzEx.pdb
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\EntityFramework.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\Facade\HomeWindow.g.cs
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\Facade\MainWindow.g.cs
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\Facade\RegisterWindow.g.cs
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\App.g.cs
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\Facade\HomeWindow.baml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\Facade\MainWindow.baml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\Facade\RegisterWindow.baml
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Pınar\Desktop\ToDoListProject - Kopya\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

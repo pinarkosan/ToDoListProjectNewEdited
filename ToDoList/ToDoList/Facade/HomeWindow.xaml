@@ -1,0 +1,120 @@
+﻿<Window x:Class="ToDoList.Facade.HomeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoList.Facade"
+               xmlns:IconPacks="clr-namespace:MahApps.Metro.IconPacks;assembly=MahApps.Metro.IconPacks.Material"
+        xmlns:Controls="clr-namespace:MahApps.Metro.IconPacks;assembly=MahApps.Metro.IconPacks"
+        mc:Ignorable="d"
+        Title="Home" Height="450" Width="800"  AllowsTransparency="True" Background="Transparent" WindowStyle="None" ResizeMode="NoResize" >
+    <Grid Name="myDatagrid">
+        <Grid Grid.RowSpan="2">
+            <Grid.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#fb3502" Offset="0.0"/>
+                    <GradientStop Color="#f6c8bc" Offset="1"/>
+
+                </LinearGradientBrush>
+            </Grid.Background>
+        </Grid>
+        <StackPanel>
+            <Button Width="20" x:Name="Close"
+        Height="20"
+        Style="{DynamicResource MetroCircleButtonStyle}" Click="Close_Click"  Background="Transparent" Foreground="White" BorderBrush="Transparent" Margin="0,5,5,0" HorizontalAlignment="Right">
+                <Controls:PackIconModern Width="10" Height="10" Kind="Close"/>
+
+            </Button>
+            <Button Width="20" x:Name="HideShow" Click="HideShow_Click"  Style="{DynamicResource MetroCircleButtonStyle}" 
+        Height="20" Background="Transparent" Foreground="White" 
+                        BorderBrush="Transparent"  Margin="750,-20,5,0"  HorizontalAlignment="Left">
+                <Controls:PackIconModern Width="10" Height="10" Kind="Minus"/>
+            </Button>
+
+        </StackPanel>
+        <StackPanel  HorizontalAlignment="Right"  Margin="0,10,50,0" Width="300">
+            <StackPanel>
+                <ComboBox Name="cmbUserName" Text="-- Select User --"  AllowDrop="False" ItemsSource="{Binding todoUserItem}" DisplayMemberPath="NameSurname" SelectedItem="{Binding CustomSettingProperty, Mode=Default}" SelectedValuePath="UserId" IsEditable="True" IsReadOnly="False" 
+                          IsSynchronizedWithCurrentItem="false" IsTabStop="True" SelectedValue="{Binding UserId}"  TabIndex="0"  Width="200" HorizontalAlignment="Left" Margin="0,10,0,0" />
+
+                <ComboBox Text="-- Select list --"   AllowDrop="False" ItemsSource="{Binding}" DisplayMemberPath="ListName" SelectedItem="{Binding CustomSettingProperty, Mode=TwoWay}" SelectedValuePath="ListId"  IsEditable="True" IsReadOnly="False" IsSynchronizedWithCurrentItem="false" IsTabStop="True" 
+                          Name="cmbUserofListName" SelectedValue="{Binding ListId}"  TabIndex="0"  Width="200" HorizontalAlignment="Left" Margin="0,10,0,0"/>
+                <Button x:Name="AddUserListName" Width="80px" HorizontalAlignment="Right" Content="Add" Margin="0,-20,0,0" Click="AddUserListName_Click"/>
+
+            </StackPanel>
+            <ListView x:Name="lvUserList" ItemsSource="{Binding todo}"   Height="100">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn DisplayMemberBinding="{Binding Namesurname}"  Header="Name Surname" Width="150"/>
+                        <GridViewColumn DisplayMemberBinding="{Binding ListName}"  Header="To Do List" Width="150"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </StackPanel>
+        <StackPanel Margin="50,20,500,10">
+            <StackPanel>
+                <TextBox x:Name="txtListName" Width="140px" HorizontalAlignment="Left"/>
+                <Button x:Name="AddListName" Width="50px" HorizontalAlignment="Right" Content="Add" Margin="0,-20,50,0" Click="AddListName_Click"/>
+                <Button x:Name="DeleteListName" Width="50px" HorizontalAlignment="Right" Content="Delete" Margin="0,-20,-10,0" Click="DeleteListName_Click"/>
+            </StackPanel>
+            <StackPanel Margin="0,10,0,0" HorizontalAlignment="Left">
+
+                <ListView x:Name="lvToDoList" ItemsSource="{Binding todo}"   Height="100">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding ListName}"  Header="To Do List Name" Width="250"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+
+
+        </StackPanel>
+        <StackPanel Margin="50,150,50,10">
+            <StackPanel>
+                <Label Foreground="White" HorizontalAlignment="Left" Content="To Do Item :"/>
+                <TextBox x:Name="ListItemName"  Width="140px" HorizontalAlignment="Left"/>
+                <Label Foreground="White" HorizontalAlignment="Left" Content="Description :"/>
+                <TextBox x:Name="Descryption"  Width="140px" HorizontalAlignment="Left"/>
+                <ComboBox Text="-- Select List --"  AllowDrop="False" ItemsSource="{Binding}" DisplayMemberPath="ListName" SelectedItem="{Binding CustomSettingProperty, Mode=TwoWay}" SelectedValuePath="ListId" SelectionChanged="cmbtodolist_SelectionChanged" IsEditable="True" IsReadOnly="False" IsSynchronizedWithCurrentItem="false" IsTabStop="True" 
+                          x:Name="cmbtodolist" SelectedValue="{Binding listId}"  TabIndex="0"  Width="200" HorizontalAlignment="Left" Margin="0,10,0,0"/>
+                <Button x:Name="AddItem" Width="50px" HorizontalAlignment="Right" Content="Add" Margin="0,-20,70,0" Click="AddItem_Click" />
+                <Button x:Name="DeleteItem"  Width="50px" HorizontalAlignment="Right" Content="Delete" Margin="0,-20,10,0" Click="DeleteItem_Click"/>
+                <Button x:Name="SaveItem"  Width="150px" HorizontalAlignment="Right" Content="Update Status" Margin="0,-20,130,0" Click="SaveItem_Click"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Right" Width="300" Margin="0,-120,0,0">
+                <Label Foreground="White" Content="Deadline :" />
+
+
+
+                <DatePicker x:Name="Deadline" Text="{Binding DateTimeValue, StringFormat=dd-MM-yyyy}" />
+            </StackPanel>
+
+            <StackPanel Margin="0,10,0,0">
+                <Label Foreground="White" Content="Filter for list Item Name"/>
+                <TextBox x:Name="txtfilter" DockPanel.Dock="Top"  HorizontalAlignment="Left" Width="300" Text="{Binding ListItemName,UpdateSourceTrigger=PropertyChanged}" />
+                <Button x:Name="filter" DockPanel.Dock="Left"  HorizontalAlignment="Left" Width="200" Click="filter_Click" Content="Filter" Margin="350,-20,0,10" />
+                <Button x:Name="refresh" DockPanel.Dock="Left"  HorizontalAlignment="Left" Width="50" Click="refresh_Click" Content="Refresh" Margin="600,-30,0,10" />
+                <ListView  Height="106"  x:Name="lvToDoListItem" HorizontalContentAlignment="Center" >
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Width="150"  DisplayMemberBinding="{Binding ListItemName}"    Header="List Item Name" />
+                            <GridViewColumn Width="150" DisplayMemberBinding="{Binding Description}"   Header="Description" />
+                            <GridViewColumn Width="150" DisplayMemberBinding="{Binding Deadline}"   Header="Deadline" />
+                            <GridViewColumn Width="150" DisplayMemberBinding="{Binding ListName}"   Header="List Name" />
+                            <GridViewColumn Width="50"   Header="Status" >
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <CheckBox x:Name="chkConfirmDel" Margin="5, 0" IsChecked="{Binding Status}"/>
+
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
